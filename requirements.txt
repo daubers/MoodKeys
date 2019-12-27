@@ -1,0 +1,5 @@
+keybow
+RPi.GPIO
+spidev
+requests
+
